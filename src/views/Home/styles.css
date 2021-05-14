@@ -1,0 +1,60 @@
+.topInfo {
+  margin-bottom: 8vh;
+}
+
+.daltonlogo {
+  max-width: 20vw;
+  margin-top: 5vh;
+  animation: rotation 60s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  margin-bottom: 0vh;
+  transition: 400ms;
+}
+
+.colorBox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-top: 4vh;
+  gap: 4em 4em;
+  justify-content: center;
+}
+
+.dalton-benefits-item {
+  margin-bottom: 2vh;
+}
+
+p,
+li {
+  font-size: 2ch;
+}
+
+.dalton-apps {
+  margin-top: 15vh;
+}
+
+.dalton-apps-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 4vh 0.7vw;
+}
+
+.dalton-story {
+  margin-top: 15vh;
+}
+
+a {
+  color: #2b7df0;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
