@@ -1,24 +1,7 @@
-# dalton-website
+# Dalton Website
 
-## Project setup
-```
-yarn install
-```
+![Dalton Website screencapture](assets/capture01.png)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+[Dalton Website](https://edersonferreira.github.io/dalton-website/) is a app to show Dalton colors and ports to a lot of apps.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Dalton Website](https://edersonferreira.github.io/dalton-website/) uses Vue as Javascript Framework.
