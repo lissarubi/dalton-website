@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dalton-website/precache-manifest.8c6bfac36fd7062a49ec939beb79d46f.js"
+  "/dalton-website/precache-manifest.8e9789ac298517ab0757149c0e645bc0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dalton-website"});
