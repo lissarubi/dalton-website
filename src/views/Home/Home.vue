@@ -58,6 +58,12 @@
           />
 
           <Project
+            name="Vscode"
+            logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhoing.io%2Fstorage%2F2020%2F10%2Fvscode-logo-2.png&f=1&nofb=1"
+            url="https://github.com/edersonferreira/dalton-vscode"
+          />
+
+          <Project
             name="Dmenu"
             logo="https://tools.suckless.org/dmenu/patches/border/dmenu_border.png"
             url="https://github.com/edersonferreira/dalton-dmenu"
